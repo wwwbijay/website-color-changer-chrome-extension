@@ -1,0 +1,10 @@
+{
+    "name": "Boom Console",
+    "version": "1.0",
+    "description": "Conceptualizes browsers for our clients to the freeSchema.com,inc database.",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    }
+    
+  }
